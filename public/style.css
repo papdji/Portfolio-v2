@@ -51,7 +51,7 @@
 #header .nav li a {
 	color: #fff;
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 400;
 	padding: 20px 10px;
 	position: relative;
@@ -662,7 +662,7 @@
 	background: #F5F5F5;
 }
 #my-service .single-service {
-	text-align: justify;
+	text-align: center;
 	margin-top: 30px;
 	background: #fff;
 	padding: 25px;
@@ -700,6 +700,7 @@
 }
 #my-service .single-service p {
 	font-size: 14px;
+	text-align: justify;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	transition:all 0.3s ease;
@@ -1196,6 +1197,8 @@
 #my-timeline .single-timeline .date p{
 	color: #fff;
 	margin:0;
+	font-size: 12px;
+	text-align: justify;
 }
 #my-timeline .single-timeline h2 {
 	font-size: 18px;
@@ -1245,7 +1248,7 @@
 	position:relative;
 }
 #testimonials .single-testimonial {
-	text-align: justify;
+	text-align: center;
 	padding: 20px 100px 0;
 	border-radius: 10px;
 }
